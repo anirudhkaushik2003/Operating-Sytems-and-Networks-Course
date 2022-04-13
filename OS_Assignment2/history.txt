@@ -1,0 +1,20 @@
+\ 
+sig 2 9 
+fg 2 
+bg 2 
+sig 1 9 
+vi 
+./Shell 
+hell 
+./S 
+ls 
+vim 
+./a.out test1.c 
+./a.out 
+gcc test.c 
+cat test1.c 
+code test1.c 
+code test.c 
+sort history.txt 
+sort 
+xeyes 

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "condition_variable": "cpp",
+        "mutex": "cpp",
+        "shared_mutex": "cpp"
+    }
+}

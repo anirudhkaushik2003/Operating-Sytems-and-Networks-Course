@@ -1,0 +1,4 @@
+[2021-10-10 14:45:40.493] [main] [info] update#setState idle
+[2021-10-10 14:45:41.908] [main] [error] vscode-file: Refused to load resource /snap/code/74/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/snap/code/74/usr/share/code/resources/app/extensions/theme-seti/icons/seti.woff)
+[2021-10-10 14:46:10.499] [main] [info] update#setState checking for updates
+[2021-10-10 14:46:10.504] [main] [info] update#setState idle
